@@ -1,0 +1,15 @@
+#home{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#about{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#about p{
+    text-align: justify;
+}
+#department li{
+    font-weight: bold;
+}
+#department p{
+    text-align: justify;
+}
